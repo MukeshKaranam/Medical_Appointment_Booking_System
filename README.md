@@ -1,4 +1,4 @@
-# Doctor Appointment Booking System Using MERN Stack
+# Medical Appointment Booking System Using MERN Stack
 Doctor Appointment System facilitates online appointment requests for clients or patients of medical establishments, including clinics and hospitals. This project can also help doctors to create appointment and also manage them with their patients. This doctor's appointment system will organize the schedules of each patient's appointment, which will be submitted as a request to the doctor they have selected.
 * The system comprises three key roles: admin, doctor, and patient.
 * This Web App includes User login page with professional handling of all kinds of validations by using "bcryptjs".
